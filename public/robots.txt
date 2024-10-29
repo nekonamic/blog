@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inf.li/sitemap-index.xml
